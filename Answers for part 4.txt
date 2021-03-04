@@ -1,0 +1,21 @@
+
+Run main() in module Mapreduce01, the count result is in part-r-00000 in the output file. 
+
+Problems:
+1. How many hits were made to the website item “/assets/img/home-logo.png”?
+Run module Q1:
+98776 hits
+
+2. How many hits were made from the IP: 10.153.239.5
+Run module Mapreduce01: 
+547 hits
+
+3. Which path in the website has been hit most? How many hits were made to the path?
+Run module Q3:
+Path has been hit most: url:GET /assets/css/combined.css HTTP/1.1
+Hit times: 107108
+
+4. Which IP accesses the website most? How many accesses were made by it?
+Run module Q4:
+Ip has been hit most: Ip:10.216.113.172  url:GET /assets/css/combined.css HTTP/1.1
+Hit times: 2258
