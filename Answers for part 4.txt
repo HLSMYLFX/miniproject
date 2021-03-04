@@ -1,4 +1,6 @@
-
+This program is modified based on WordCount porgram.
+It can run both on the server or on the local.
+If you want to run on the VM, you should pack the module as jar and upload it to the VM.
 Run main() in module Mapreduce01, the count result is in part-r-00000 in the output file. 
 
 Problems:
